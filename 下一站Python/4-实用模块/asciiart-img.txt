@@ -1,0 +1,45 @@
+                                                                                
+                                                                    ,,..        
+        ..rrii,,                                                ..::iiii..      
+        ;;XXssrr;;                                          ..::;;;;iirr,,      
+        ;;AAXXssii;;..  ..                              ..,,;;;;::;;iiss..      
+        ;;22AAXXrrii;;::..  ........,,::::,,............,,;;;;::;;iissrr..      
+        ::AA55XXssrr;;iiii,,,,....,,::iiii::............;;;;::::iirrXXii        
+        ..XX5555AArrrrssss::....,,,,::ii;;;;,,......  ,,rrii;;::;;ssss::        
+          rr2233XXXXssXXrr;;::,,::;;::;;iiii::,,,,......::iiiiii;;rrrr..        
+          ::222233AAssii::::;;::::ii;;;;rrrr,,::..........,,;;iirrss;;          
+          ..AA55hhAAssii;;;;;;::::;;ii::rr;;,,,,..  ......::::;;rrss;;          
+          ..555533XXrrii;;::::,,;;;;,,::ii::  ....  ........,,iissii,,          
+          ..AA2255AAss;;::::::..,,;;..,,rr::  ....        ....,,ii::..          
+            XX55XXssiiii::::::....,,,,,,rr;;                    ..,,..          
+            XXAArr;;ii;;::;;rrXXii::,,,,ii;;    ;;5533ss..                      
+          ..ssXXrr::::;;XXHH99SSHHAA;;;;;;;;..::GG99MMHHXX..                    
+          ..ssXXssrrii;;AASSBBSSGGHHii;;::,,  XXHHBBSSHHXX......                
+            ss22AAss;;,,;;hh####HHSSXX::,,..  MMhhGGGGhhrr  ....                
+            rr2222XXii::,,rrhhHHHHGGAA;;;;,,,,55333333XX............            
+            iiAA22ssrriiii::;;rriiiissrr;;,,::::..;;;;,,,,,,  ..,,..            
+            ;;AAAAssrriiiiiiii::,,;;ssAArriiii,,..,,,,,,..                      
+            ,,XXXXXXrrii;;;;ii;;;;;;XXMMAA55AA    ......                        
+              rrssrrrrii;;iiiiiiii;;::225522ii    ......                        
+              ;;ssrrrriiiiiissrrii;;::..22XX      ....          ....            
+              ::ssrriiiiiiiiiiii;;;;::::AAAA,,          ............            
+              rr22ssrriiiirrii::::::;;rrAAXXii::....    ........,,              
+            ..2233AArrrrrriiiiiiiiiiii;;,,,,,,::,,,,      ....,,,,              
+            ;;225533AAssrrrrrriiii;;;;::,,..........      ..,,,,..              
+            ii55333322ssssrriiii;;;;::::,,,,......      ....,,,,..              
+            ss55555522AAAAssrriiii;;::::::,,..............,,,,,,..              
+            XX2222222222AAXXssrrrriiii;;;;;;::,,,,,,..........,,....            
+          ..AA22AA2222AAXXXXssrrrrrriiii;;::::,,,,....      ......              
+          ,,AAAAXXAAAAXXssssssrrrrii;;;;::,,,,....                              
+          ::AAXXXXXXXXXXssrrrrii;;;;::::,,,,......                              
+        ..rrAAXXssssrrrriiii;;::::::,,,,,,,,......                              
+      ..rrAAAAXXrrrriiii;;::::::::,,,,,,..,,....                                
+      ::ss22AAssrrii;;;;::,,,,,,,,,,..........                          ..      
+    ::rrXX5522ssssrr;;;;::,,..................                          ..      
+    iiXX2222AAssrrrriiii::,,............                                ,,      
+  ::ss225555AAXXrriiii;;;;::,,..........                                ,,      
+  iiAA222222XXXXssiiii;;::::::,,......                                  ,,..    
+,,ssAA222222XXXXssrrii;;::::,,,,........                                ,,..    
+::XXAA222222XXXXssrrii;;::,,,,,,....                                  ..,,..    
+iiAA222222AAXXssssrrii;;::,,,,,,..                                    ..::,,    
+ssXX55222222XXssssrrii;;::,,,,,,..                                    ..,,,,    
